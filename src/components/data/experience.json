@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "role": " Software Engineer ",
+    "organisation": "NIOS IT Solutions",
+    "startDate": "June, 2023",
+    "endDate": "Present",
+    "location": "Bhopal,Madhya Pradesh",
+    "experiences": [
+      "Working  as a Front-end Developer at NIOS IT Solutions,I specialize in creating responsive and user-friendly web interfaces.My responsibilities include developing and maintaining web applications using technologies like HTML, CSS, JavaScript, and React.js to ensure optimal performance and a seamless user experience"
+    ]
+    
+  }
+
+]
