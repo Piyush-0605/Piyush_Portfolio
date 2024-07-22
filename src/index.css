@@ -21,7 +21,7 @@ a {
   justify-content: space-between;
   align-items: center;
   /* width: 60%; */
-  background-color: rgb(11,26,51);
+  /* background-color: rgb(11,26,51); */
   position: fixed;
   z-index: 9;
 
@@ -185,4 +185,34 @@ a {
 
 .contact-icon .items .icons {
   font-size: 2rem;
+}
+
+/* .all-projects{
+  width: 100%;
+  margin: auto;
+  margin-left: 85%;
+} */
+
+
+@media (max-width:500px) {
+  .all-projects{
+    /* background-color: red; */
+    /* margin: auto; */
+    margin-left: 85%;
+  }
+  .contact-all{
+    margin-left: 125%;
+  }
+  .home{
+    display: flex;
+    flex-direction: column-reverse;
+    margin-top: 39%;
+    gap: 78px;
+    margin-bottom: 37px;
+    margin-left: 230px;
+    
+  }
+  .nav_bar{
+    position: relative;
+  }
 }

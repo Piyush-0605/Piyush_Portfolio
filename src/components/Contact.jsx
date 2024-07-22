@@ -12,7 +12,7 @@ const Contact = () => {
       <div className="container contact" id="contact">
         <h1>CONTACT ME</h1>
         <div
-          className="contact-icon"
+          className="contact-icon contact-all"
           data-aos="zoom-in-up"
           data-aos-duration="1000"
         >
